@@ -9,6 +9,7 @@
 | 2026-08-17 | Function | [Day03](./Day03/) | 
 | 2026-08-24 | Loop | [Day04](./Day04/) | 
 | 2026-08-31 | Dictionary | [Day05](./Day05/) | 
+| 2026-08-31 | Midterm Exam | [Midterm](./MidtermExam/) | 
 | 2026-09-07 | Class Object | [Day06](./Day06/) |
 | 2026-09-14 | Freq Library | [Day07](./Day07/) | 
 | 2026-09-21 | Final Exam | |
